@@ -3,7 +3,7 @@
 <suite name="SauceDemoProject">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Excelr.OrderAnItem"/>
+    
       <class name="Excelr.Order_ByClickingImage"/>
       <class name="Excelr.LoginPageTest"/>
       <class name="Excelr.Order_byClickingProductName"/>
